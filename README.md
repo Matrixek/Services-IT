@@ -8,8 +8,7 @@ Welcome to my project page Password-checker one of the first pages when I starts
 
  https://matrixek.github.io/Password-checker/
 
-[screen-recording.webm](https://user-images.githubusercontent.com/123593832/236574630-0d012821-71af-409b-9fb7-9c002a907209.webm)
-
+[screen-recording (1).webm](https://user-images.githubusercontent.com/123593832/236698616-bd7f94c4-c36e-423c-8b1e-b44c9d30e61a.webm)
 
 
 ## About my page
