@@ -1,0 +1,29 @@
+body {
+	background-color: #EEEEEE;
+}
+
+#baner {
+	background-color: #C0C0C0;
+	height: 100px;
+	margin-top: 10px;
+
+}
+
+#stopka {
+	background-color: #C0C0C0;
+	height: 100px;
+	margin-top: 10px;
+	text-align: right;
+}
+
+#menu {
+	margin: 50px;
+}
+
+a {
+	vertical-align: top;
+	font-size: 20px;
+	text-align: left;
+	text-decoration: none;
+	spacing: 70px;
+}

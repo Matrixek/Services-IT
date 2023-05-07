@@ -1,0 +1,61 @@
+<html LANG="PL">
+
+<head>
+   <meta charset="UTF-8">
+   <link rel="Stylesheet" href="styl.css">
+   <title>
+      Usługi informatyczne
+   </title>
+</head>
+
+<body>
+   <div id="baner">
+      <img src="logo.png" alt="logo firmy">
+      <a href="index.html"> O nas</a>
+      <a href="uslugi.html">Usługi</a>
+      <a href="kontakt.html">Kontakt</a>
+   </div>
+   <div id="gora">
+      <img src="animacja.gif">
+   </div>
+   <div id="menu">
+      <hr>
+      <center>
+         <h1>Kontakt</h1>
+         <label for="a"> Imie:<input type="text" id="a"></label><br><br>
+         <label for="b"> Nazwisko:<input type="text" id="a"></label><br><br>
+         <label for="c">E-mail:<input type="text" id="c"></label><br><br>
+         <label for="d">Usługa:<input type="text" cols="70" rows="3" size="40%" id="d"></label><br><br>
+         <input type="checkbox" id="f">Zapoznałem się z regulaminem<br><br>
+         <input type="reset" name="Resetuj">
+         <input type="submit" name="Prześlij" onclick="wyslij()">
+         <div id="wynik"></div> <br><br>
+         Na podany e-mail zostanie wysłana oferta
+         <hr>
+         <script>
+            function(wyslij) {
+               var a = document.getElementById("a").value;
+               var b = document.getElementById("b").value;
+               var c = document.getElementById("c").value;
+               var d = document.getElementById("d").value;
+               var f = document.getElementById("d").value;
+               if (f == "") {
+                  document.getElementById("wynik").innerHTML = "Musisz zapoznać się z regulaminem";
+               }
+               else {
+                  document.getElementById("wynik").innerHTML = "
+
+               }
+            }
+
+         </script>
+         <label>
+   </div>
+   <div id="stopka">
+      <p>Autor strony:<b> Mateusz Pietroń</b></p>
+   </div>
+
+
+</body>
+
+</html>
