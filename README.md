@@ -6,7 +6,7 @@ Welcome to my project page Password-checker one of the first pages when I starts
 ## Demo
 ---
 
- https://matrixek.github.io/Password-checker/
+ https://matrixek.github.io/Services-IT/
 
 [screen-recording (1).webm](https://user-images.githubusercontent.com/123593832/236698616-bd7f94c4-c36e-423c-8b1e-b44c9d30e61a.webm)
 
